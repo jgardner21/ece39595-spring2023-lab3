@@ -1,4 +1,5 @@
-1.Answer 1
+1.Two pros of agile development are that it is more flexible and the product usually gets to market faster.
+Two cons of agile development are that it is harder to predict and that Documentation tends to get left behind.
 
 2.
 
