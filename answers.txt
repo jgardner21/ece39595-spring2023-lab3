@@ -1,8 +1,9 @@
-1.
+1.Two pros of agile development are that it is more flexible and the product usually gets to market faster.
+Two cons of agile development are that it is harder to predict and that Documentation tends to get left behind.
 
-2.
+2.While the scrum master is generally a more technically focused position, the project manager tends to be more involved in the business-client interaction. While they both report to upper management, the project manager also reports to the client directly, whereas the scrum master rarely interacts directly with the client. In general, the scrum master's main goal is to ensure the quality and accuracy of the product, while the project manager attempts to convert the client's goal for the product into a backlog that can be completed on time.
 
-3.
+3.The first type of meeting that occurs during a sprint cycle is the sprint planning meeting. In this meeting, what must be completed in the sprint is discussed and stories must be created and assigned to the team. The second type of meeting that occurs during a sprint cycle is the daliy standup meeting. In this meeting, team members discuss what they will be working on that day as well as what they have completed since the last standup. The third and final type of sprint meeting is the retrospective meeting. This meeting occurs at the end of the sprint. Completed work is discussed, and the sprint is closed.
 
-4.
+4.An epic is an overarching body of work that can be broken down into smaller parts. A story is a brief system requirement that can be summarized in a few sentences. A bug is a very small thing that is currently not working in the program which could be blocking a story from being completed. A task is a subset of a story that represents a very small amount of work that needs to be done.
 
