@@ -1,7 +1,7 @@
 1.Two pros of agile development are that it is more flexible and the product usually gets to market faster.
 Two cons of agile development are that it is harder to predict and that Documentation tends to get left behind.
 
-2.
+2.While the scrum master is generally a more technically focused position, the project manager tends to be more involved in the business-client interaction. While they both report to upper management, the project manager also reports to the client directly, whereas the scrum master rarely interacts directly with the client. In general, the scrum master's main goal is to ensure the quality and accuracy of the product, while the project manager attempts to convert the client's goal for the product into a backlog that can be completed on time.
 
 3.
 
